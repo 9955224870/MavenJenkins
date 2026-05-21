@@ -6,7 +6,7 @@ public class Demo2Test {
 	
 	@Test
 	public void case234() {
-		System.out.println("Demo Test234");
+		System.out.println("i love my India");
 		
 		
 	}
