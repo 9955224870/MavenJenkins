@@ -10,6 +10,6 @@ public class Sample2Test {
 	}
 	@Test
 	public void case112233() {
-		System.out.println("sample test112233");
+		System.out.println("dinga dingi");
 	}
 }
